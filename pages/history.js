@@ -37,7 +37,7 @@ const FrontSection = () => {
                                     <img style={{ width: '100%', borderRadius: 'inherit' }} src='https://internativelabs.com/wp-content/uploads/2024/01/cropped-favicon-32x32.png' />}
                             </div>
                             <h4>Internative Labs</h4>
-                            <p>Its a Software company in Karachi,I have completed my internship from feb-jun/2023 as a junior mernstack developer, then got transfered in Monsterhub</p>
+                            <p>Its a Software company in Karachi,I have completed my internship from feb-jun/2023 as a junior Frontend developer, then got a permanent position as a Froontend Developer</p>
                         </div>
 
                         {/* <div onClick={() => { window.open('https://monsterhub.io/', '_blank'); }} onMouseEnter={() => setHoveredDiv(2)}
